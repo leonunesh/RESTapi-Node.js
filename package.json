@@ -1,0 +1,17 @@
+{
+  "name": "mongoose",
+  "version": "0.0.1",
+  "description": "mongoose application created",
+  "license": "ISC",
+  "author": "Leonardo",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
